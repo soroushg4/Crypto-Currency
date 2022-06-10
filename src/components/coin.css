@@ -1,0 +1,15 @@
+.header-text {
+    font-size: 2rem;
+    font-family: "Poppins", sans-serif;
+    /* color: #fdbb2d; */
+}
+
+.section-text{
+    font-size: 17px;
+    font-family: "Andada", sans-serif;
+}
+
+.i-icon{
+    margin-right: 2px;
+    margin-top: 5px;
+}
